@@ -1,0 +1,22 @@
+{
+    "name": "Invoice",
+    "alias": "invoice",
+    "description": "",
+    "keywords": [
+        "framework",
+        "laravel",
+        "boilerplate",
+        "invoice"
+    ],
+    "priority": 0,
+    "providers": [
+        "Modules\\Invoice\\Providers\\InvoiceServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": [],
+    "minimumCoreVersion": "",
+    "title": "Invoice",
+    "version":"0.0.1",
+    "author": "Hafijul Islam"
+}
